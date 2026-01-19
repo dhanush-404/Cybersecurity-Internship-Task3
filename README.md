@@ -2,7 +2,7 @@
 # -> Analyze live network traffic using wireshark
 
 ## Tool Used
-- Wireshark
+- Wireshark (the packets captured file was also attached in this repo)
 
 ## Objective
 To understand basic networking concepts and analyze live network traffic using Wireshark.
