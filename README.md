@@ -1,8 +1,6 @@
 # Cybersecuirty-Internship-Task3
 # -> Analyze live network traffic using wireshark
 
-# Task 3: Networking Basics for Cyber Security
-
 ## Tool Used
 - Wireshark
 
